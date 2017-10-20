@@ -11,10 +11,6 @@ if (!defined('_PS_VERSION_')) {
   exit;
 }
 
-//include_once (CURRENT_MODULE_DIR . '/vendor/PayWithAmazon/Client.php');
-//use AdminCotizacionController;
-//use DbQuery;
-//use ProductCore;
 
 class cotizacion extends Module {
 
